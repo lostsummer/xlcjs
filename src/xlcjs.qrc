@@ -1,0 +1,9 @@
+<RCC>
+  <qresource>
+    <file>images/xlccc.png</file>
+    <file>images/xlczj.png</file>
+    <file>images/xlchm.png</file>
+    <file>images/xlccs_gs.png</file>
+    <file>images/xlccs.png</file>
+  </qresource>
+</RCC>
